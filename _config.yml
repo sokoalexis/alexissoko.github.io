@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Alexis and I'm a Software Engineer with a keen interest in automation <mark>Python</mark> for <mark>QA</mark>. I'm a doer. Pragmatic <mark>Agile</mark>. I have worked at a number of companies gaining teamwork <mark>scrum</mark> and leadership skills.
 
-  I am skilled in: <mark>Linux</mark> and <mark>C#.Net</mark> and <mark>OOP</mark>
+  More skills: <mark>Linux</mark> and <mark>C#.Net</mark> and <mark>OOP</mark>
 # Projects Section
 # projects_title: Projects
 
@@ -42,7 +42,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Science History
    - Economics
-   - Running
+   - Soccer
 
 # Footer
 footer_show_references: true
