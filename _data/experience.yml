@@ -4,9 +4,9 @@
   job_title: Software and Networking Automation Engineer
   dates: August 2019 - Present
   quote: >
-   Development of test framework to analyze performance <mark>QA</mark> of urban wireless requires a wide scope of knoledge and a pragmatic delivery <mark>hack</mark>.
+   Development of test framework to analyze performance <mark>QA</mark> of urban wireless requires a wide scope of knowledge and a pragmatic delivery.
   description: | # this will include new lines to allow paragraphs
-    Network performance <mark>QA</mark> through API development to automate test systems, implementing test harnesses and infrastructure. Mostly with using <mark>Python</mark> <mark>Linux</mark>.
+    Network performance <mark>QA</mark> through API development to automate test systems, implementing test harnesses and infrastructure. Mostly with using <mark>Python</mark> and <mark>Linux</mark>.
 
 - layout: left
   company: Hewlett Packard Enterprise
@@ -14,9 +14,9 @@
   job_title: Software Engineer
   dates: Junuary 2015 - October 2016
   quote: >
-   Software for financial project requires a fine balance in between delivery <mrak>Agile</mark> and soundeness <mark>Waterfall</mark>.
+   Software for financial project requires a fine balance in between delivery <mark>Agile</mark> and soundeness <mark>Waterfall</mark>.
   description: | # this will include new lines to allow paragraphs
-    Analysis of customer requirements are translated to functions and structures. Later translated into COBOL language, compiled, tested and deployed into Mainframe batch processing architecture.
+    Analysis of customer requirements are translated to functions and structures. Later translated into <mark>COBOL</mark> language, compiled, tested and deployed into Mainframe batch processing architecture.
 
 - layout: left
   company: Nexius - 3xm Group
@@ -26,4 +26,4 @@
   quote: >
    Implementation of QA requirements into Test cases is not a straight road. Implementing them with <mark>Python</mark>, <mark>Bash</mark>, etc. even more so.
   description: | # this will include new lines to allow paragraphs
-    Test case creation. LTE network infrastructure, services, and protocols resiliency testing. Proof of concepts. Standard documentation. Research, building and deployment of a virtualized telecommunications LTE network supporting thousands of users. Automation..
+    Test case creation. LTE network infrastructure, services, and protocols resiliency testing. Proof of concepts. Standard documentation. Research, building and deployment of a virtualized telecommunications LTE network supporting thousands of users.
