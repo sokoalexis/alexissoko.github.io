@@ -6,4 +6,4 @@
   quote: >
     Full stack project that involved <mark>Front-end</mark>, <mark>Concurrency</mark>, <mark>OSI</mark> and <mark>QA automation</mark>
   description: | # this will include new lines to allow paragraphs
-    Multi user forum chat. Fully implemented in <mark>Python</mark>. Modules: <mark>PyQt</mark> front-end, <mark>Socket</mark> for networking. <mark>Threading</mark> for parralell connection handling.
+    Multiuser forum chat. Fully implemented in <mark>Python</mark>. Modules: <mark>PyQt</mark> front-end, <mark>Socket</mark> for networking. <mark>Threading</mark> for parallel connection handling.
