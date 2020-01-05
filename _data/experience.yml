@@ -6,7 +6,7 @@
   quote: >
    Development of <mark>Integration Test</mark> framework to analyze performance of urban wireless requires a wide scope of knowledge and a pragmatic mentality for fast delivery.
   description: | # this will include new lines to allow paragraphs
-    Network performance <mark>QA</mark> through API development to automate test cases. Implementing test harnesses and infrastructure. Mostly using <mark>Python</mark> and <mark>Bash</mark>.
+    Network performance <mark>QA</mark> through API development to automate test cases. Implementing test harnesses and infrastructure. Mostly using <mark>Python</mark> with <mark>GIT</mark>.
 
 - layout: left
   company: Hewlett Packard Enterprise
