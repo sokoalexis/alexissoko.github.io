@@ -4,9 +4,9 @@
   job_title: Software and Networking Automation Engineer
   dates: August 2019 - Present
   quote: >
-   Development of test framework to analyze performance <mark>QA</mark> of urban wireless requires a wide scope of knowledge and a pragmatic delivery.
+   Development of test framework to analyze performance <mark>QA</mark> of urban wireless requires a wide scope of knowledge and a pragmatic mentality for delivery.
   description: | # this will include new lines to allow paragraphs
-    Network performance <mark>QA</mark> through API development to automate test systems, implementing test harnesses and infrastructure. Mostly with using <mark>Python</mark> and <mark>Linux</mark>.
+    Network performance <mark>QA</mark> through API development to automate test cases. Implementing test harnesses and infrastructure. Mostly using <mark>Python</mark> and <mark>Bash</mark>.
 
 - layout: left
   company: Hewlett Packard Enterprise
