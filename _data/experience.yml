@@ -6,7 +6,7 @@
   quote: >
    Development of <mark>Integration Test</mark> framework to analyze performance of urban wireless requires a wide scope of knowledge and a pragmatic mentality for fast delivery.
   description: | # this will include new lines to allow paragraphs
-    Network performance <mark>QA</mark> through API development to automate test cases. Implementing test harnesses and infrastructure. Mostly using <mark>Python</mark> with <mark>GIT</mark>.
+    Network performance <mark>QA</mark> through API development to automate test cases. Implementing test harnesses and infrastructure. Tools: <mark>Python</mark>; <mark>Matplotlib</mark>; <mark>GIT</mark>; <mark>iPerf</mark>.
 
 - layout: left
   company: Hewlett Packard Enterprise
@@ -26,4 +26,4 @@
   quote: >
    Implementation of QA requirements into Test cases is not a straight road. Done with <mark>Python</mark>, <mark>Bash</mark>, etc.
   description: | # this will include new lines to allow paragraphs
-    <mark>Test Case</mark> creation and implementation. LTE network infrastructure, services, and <mark>TCP/IP</mark> protocols resiliency testing. Proof of concepts. Standard documentation. Research, virtualized and <mark>monitored</mark> telecommunications and <mark>LTE</mark> network for thousands of users.
+    <mark>Test Case</mark> creation and implementation. LTE network infrastructure services, <mark>TCP/IP</mark> protocols resiliency testing. Proof of concepts. Standard documentation. <mark>VMWare</mark> and <mark>Cheff</mark> for resiliecy monitorization of <mark>LTE</mark> network for thousands of users.
