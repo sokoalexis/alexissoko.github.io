@@ -14,7 +14,7 @@
   job_title: Software Engineer
   dates: Junuary 2015 - October 2016
   quote: >
-   Software for financial project requires a fine balance in between delivery <mark>Agile</mark> and soundness <mark>Waterfall</mark>.
+   Software for financial project needs a fine balance in between delivery <mark>Agile</mark> and soundness <mark>Waterfall</mark>.
   description: | # this will include new lines to allow paragraphs
     Analysis of customer requirements are translated to functions and structures. Later translated into <mark>COBOL</mark> language, compiled, tested and deployed into Mainframe batch processing architecture.
 
