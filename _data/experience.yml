@@ -26,4 +26,4 @@
   quote: >
    Implementation of QA requirements into Test cases is not a straight road. Implementing them with <mark>Python</mark>, <mark>Bash</mark>, etc. even more so.
   description: | # this will include new lines to allow paragraphs
-    Test case creation. LTE network infrastructure, services, and protocols resiliency testing. Proof of concepts. Standard documentation. Research, building and deployment of a virtualized telecommunications LTE network supporting thousands of users.
+    Test case creation. LTE network infrastructure, services, and protocols resiliency testing. Proof of concepts. Standard documentation. Research, virtualized and <mark>monitored</mark> telecommunications LTE network for thousands of users.
