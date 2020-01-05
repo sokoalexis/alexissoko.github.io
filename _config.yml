@@ -24,9 +24,9 @@ linkedin_username: alexissoko
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Alexis and I'm a Software Engineer with a keen interest in automation <mark>Python</mark> for <mark>QA</mark>. I'm pragmatic. I believe <mark>Agile</mark> methodology uses all the power of experience to boost project delivery and hone intuition. I have worked at a number of companies gaining teamwork with <mark>scrum</mark> and analytical and coding abilities to find bugs and efficiently implement solutions.
+  Hi, my name's Alexis and I'm a Software Engineer with a keen interest in automation and development with <mark>Python</mark>. I'm pragmatic. I believe <mark>Agile</mark> methodology uses all the power of experience to boost project delivery and hone intuition. I have worked at a number of companies gaining teamwork abilities with <mark>scrum</mark> and a deep analytical and coding abilities on <mark>Data structure</mark> to efficiently design and implement solutions and find covert bugs.
 
-  More skills: <mark>Linux</mark> and <mark>C#.Net</mark> and <mark>OOP</mark>
+  More skills: <mark>Django</mark>; <mark>Linux</mark>; <mark>Z Shell</mark> and <mark>C#.Net</mark>
 # Projects Section
 # projects_title: Projects
 
