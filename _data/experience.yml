@@ -24,6 +24,6 @@
   job_title: Network Quality Engineer
   dates: July 2013 - December 2014
   quote: >
-   Implementation of QA requirements into Test cases is not a straight road. Done with <mark>Python</mark>, <mark>Bash</mark>, etc.
+   Implementation of QA requirements into Test cases is not a straight road. <mark>Service monitoring</mark>.
   description: | # this will include new lines to allow paragraphs
-    <mark>Test Case</mark> creation and implementation. LTE network infrastructure services, <mark>TCP/IP</mark> protocols resiliency testing. Proof of concepts. Standard documentation. <mark>VMWare</mark> and <mark>Cheff</mark> for resiliecy monitorization of <mark>LTE</mark> network for thousands of users.
+    <mark>Test Case</mark> creation and implementation. LTE network infrastructure services, <mark>TCP/IP</mark> protocols resiliency testing. Proof of concepts. Standard documentation. <mark>VMWare</mark> and <mark>Cheff</mark> for <mark>LTE</mark> network resiliecy for thousands of users.
