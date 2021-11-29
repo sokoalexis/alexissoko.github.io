@@ -19,11 +19,13 @@
     Analysis of customer requirements are translated to functions and structures. Later translated into <mark>COBOL</mark> language, compiled, tested and deployed into Mainframe batch processing architecture.
 
 - layout: left
-  company: Nexius - 3xm Group
-  link: www.3xmgroup.com
-  job_title: Network Quality Engineer
-  dates: July 2013 - December 2014
+  company: NCR - Santex
+  link: https://www.ncr.com/
+  job_title: Quality Engineer
+  dates: July 2020 - present
   quote: >
-   Implementation of QA requirements into Test cases is not a straight road. <mark>Service monitoring</mark>.
+  Automation of smoke/regression testing with <mark>Python</mark>. Error prone process edition optimized (Documentation and debugging) and testing perfomance upgraded.
   description: | # this will include new lines to allow paragraphs
+    Framework <mark>SW versioning</mark> maintained/delivered with <mark>GIT</mark>. Checkpoint and reusability. <mark>Jenkins</mark> for <mark>CI</mark> .
     <mark>Test Case</mark> creation and implementation. LTE network infrastructure services, <mark>TCP/IP</mark> protocols resiliency testing. Proof of concepts. Standard documentation. <mark>VMWare</mark> and <mark>Cheff</mark> for <mark>LTE</mark> network resiliecy for thousands of users.
+    API endpoints performance and security testing stressed with <Postman>
